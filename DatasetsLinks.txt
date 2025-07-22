@@ -1,0 +1,12 @@
+SYNTHETIC ROOMS:
+
+4 rooms subsets:
+- train and evaluation: https://www.kaggle.com/datasets/leonardosandri/synthetic-rooms-rooms-04050607
+- ground truth: https://www.kaggle.com/datasets/leonardosandri/gt-synthetic-rooms-04050607
+
+2 rooms subsets:
+- train and evaluation: https://www.kaggle.com/datasets/leonardosandri/synthetic-rooms-04and05
+- ground truth: https://www.kaggle.com/datasets/leonardosandri/gt-rooms-mesh-04and05
+
+SHAPENET (not used):
+see https://github.com/ALCOR-Lab-DIAG/TransONet.git readMe
